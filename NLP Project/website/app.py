@@ -1082,10 +1082,14 @@ f"""
 
                 with col2:
 
+                    # Count only UNIQUE category names.
+                    # Multiple skills from the same category count as one category.
+                    unique_categories = set(categories.values())
+
                     render_html(
 f"""
 <div class="metric-card">
-<div class="metric-value">{len(categories)}</div>
+<div class="metric-value">{len(unique_categories)}</div>
 <div class="metric-label">Categories</div>
 </div>
 """
