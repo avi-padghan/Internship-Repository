@@ -1,0 +1,18 @@
+{
+    "admin@skillsense.com": {
+        "name": "Admin",
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    },
+    "avipadghan7@gmail.com": {
+        "name": "Avinash Padghan",
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    },
+    "rahul@gmail.com": {
+        "name": "Rahul Ubale",
+        "password": "f19cc06d6b8e2c58646773db7cc9e2266ce1075ed109f48fb09e6683ebea4d3f"
+    },
+    "patils@gmail.com": {
+        "name": "Saksham Patil",
+        "password": "9c247f0e7d81b59d540025d9c9ba6737d7276a1086aec2343037c7d591fe268c"
+    }
+}
